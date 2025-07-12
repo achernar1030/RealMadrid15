@@ -1,0 +1,5 @@
+def add_two_numbers(num1, num2):
+  """
+  두 개의 숫자를 받아서 더한 값을 반환합니다.
+  """
+  return num1 + num2
